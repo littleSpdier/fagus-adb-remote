@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 虚拟环境
+venv/
+ENV/
+.env/
+.venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# deb包
+*.deb
+adb-remote-gui/
+
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# 日志和临时文件
+*.log
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
